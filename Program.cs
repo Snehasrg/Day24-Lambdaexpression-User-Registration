@@ -4,7 +4,8 @@
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to User Registration Problem using lambda Expression");
+            Console.WriteLine("Welcome to user regestration Program");
+            User.ForFirstName();
         }
     }
 }
